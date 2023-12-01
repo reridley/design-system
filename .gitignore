@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.DS_Store
+.eslintrc.json
+.prettierrc
+tsconfig.json
+tsconfig.node.json
+vite.config.js
+package-lock.json
+package.json
